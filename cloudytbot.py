@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
 
-exec_path ="\\home\\sharmashivansh0000\\chromedriver"
+exec_path ="/home/sharmashivansh0000/chromedriver"
 yt_link = "https://youtu.be/cuyMD91PE4c"
 
 x0= webdriver.Chrome(executable_path=exec_path)
